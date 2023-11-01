@@ -1,0 +1,3 @@
+Model,IoU (small dataset),IoU (large dataset),Dice (small dataset),Dice (large dataset)
+U-Net,0.8297,0.8433,0.9059,0.9134
+U-Net++,0.1342,0.1706,0.2309,0.2827
